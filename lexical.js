@@ -1,3 +1,4 @@
+// lexical analyzer
 const fs = require('fs');
 
 function splitTokens(code) {
